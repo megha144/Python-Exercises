@@ -1,6 +1,6 @@
 # Python-Exercises
 
-Financial Statement Analysis using Jupyter Notebook
+# 1) Financial Statement Analysis using Jupyter Notebook
 
 - profit for each month
 - profit after tax for each month (the tax rate is 30%)
